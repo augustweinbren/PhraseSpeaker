@@ -10,7 +10,7 @@ PhraseSpeaker is a simple yet powerful bash script designed to read text from a 
 
 ## Prerequisites
 
-- macOS (The script uses macOS's native `say` command).
+- macOS (The script uses macOS's native `say` command)
 - A text file from which you want to extract and dictate text.
 
 ## Installation
